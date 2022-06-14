@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.main1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./IMG_20100101_113339_382.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
